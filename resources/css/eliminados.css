@@ -1,0 +1,30 @@
+.visionado,
+#obj_lectura,
+#audio {
+    display: none;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+.m-1 {
+    margin-left: 24px;
+}
+
+.m-2 {
+    margin-left: 48px;
+}
+
+.m-3 {
+    margin-left: 72px;
+}
+
+.eliminar,
+.descargar {
+    cursor: default;
+}

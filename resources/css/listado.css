@@ -1,0 +1,30 @@
+li {
+    text-decoration: none;
+    list-style-type: none;
+    cursor: default;
+}
+
+a {
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.visionado {
+    display: none;
+    float: left;
+}
+
+.video {
+    width: 1280px;
+    height: 720px;
+}
+
+#cerrar-visionado {
+    position: relative;
+    top: 0px;
+    left: -16px;
+    cursor: default;
+}

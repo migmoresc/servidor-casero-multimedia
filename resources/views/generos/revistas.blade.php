@@ -1,0 +1,11 @@
+<option value="Prensa rosa">Prensa rosa</option>
+<option value="Prensa amarilla">Prensa amarilla</option>
+<option value="Noticias">Noticias</option>
+<option value="Actualidad">Actualidad</option>
+<option value="Deportes">Deportes</option>
+<option value="Ciencia">Ciencia</option>
+<option value="Curiosidades">Curiosidades</option>
+<option value="Infantil">Infantil</option>
+<option value="Coleccionable">Coleccionable</option>
+<option value="Informática">Informática</option>
+<option value="Adulto">Adulto</option>
